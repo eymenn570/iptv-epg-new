@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="ChatGPT XMLTV" generator-info-url="https://openai.com">
+
+  <!-- Ciner Medya -->
+  <channel id="showtv.tr">
+    <display-name>Show TV</display-name>
+  </channel>
+
+  <channel id="haberturk.tr">
+    <display-name>Habertürk</display-name>
+  </channel>
+
+  <channel id="bloomberght.tr">
+    <display-name>Bloomberg HT</display-name>
+  </channel>
+
+  <!-- Turkuvaz Medya -->
+  <channel id="atv.tr">
+    <display-name>atv</display-name>
+  </channel>
+
+  <channel id="a2.tr">
+    <display-name>a2</display-name>
+  </channel>
+
+  <channel id="ahaber.tr">
+    <display-name>A Haber</display-name>
+  </channel>
+
+  <channel id="aspor.tr">
+    <display-name>A Spor</display-name>
+  </channel>
+
+  <channel id="apara.tr">
+    <display-name>A Para</display-name>
+  </channel>
+
+  <channel id="minikago.tr">
+    <display-name>Minika GO</display-name>
+  </channel>
+
+  <channel id="minikacocuk.tr">
+    <display-name>Minika Çocuk</display-name>
+  </channel>
+
+  <channel id="vavtv.tr">
+    <display-name>VAV TV</display-name>
+  </channel>
+
+  <channel id="anews.tr">
+    <display-name>A News</display-name>
+  </channel>
+
+  <!-- Acun Medya -->
+  <channel id="tv8.tr">
+    <display-name>TV8</display-name>
+  </channel>
+
+  <channel id="tv8_5.tr">
+    <display-name>TV8,5</display-name>
+  </channel>
+
+  <!-- Diğer -->
+  <channel id="kanald.tr">
+    <display-name>Kanal D</display-name>
+  </channel>
+
+  <channel id="now.tr">
+    <display-name>NOW</display-name>
+  </channel>
+
+  <channel id="startv.tr">
+    <display-name>Star TV</display-name>
+  </channel>
+
+  <channel id="trt1.tr">
+    <display-name>TRT 1</display-name>
+  </channel>
+
+  <channel id="trthaber.tr">
+    <display-name>TRT Haber</display-name>
+  </channel>
+
+  <channel id="trtspor.tr">
+    <display-name>TRT Spor</display-name>
+  </channel>
+
+  <channel id="trtcocuk.tr">
+    <display-name>TRT Çocuk</display-name>
+  </channel>
+
+  <channel id="kanal7.tr">
+    <display-name>Kanal 7</display-name>
+  </channel>
+
+  <channel id="tvnet.tr">
+    <display-name>TVNET</display-name>
+  </channel>
+
+  <channel id="ulketv.tr">
+    <display-name>Ülke TV</display-name>
+  </channel>
+
+  <channel id="24tv.tr">
+    <display-name>24 TV</display-name>
+  </channel>
+
+  <channel id="360tv.tr">
+    <display-name>360 TV</display-name>
+  </channel>
+
+  <channel id="ntv.tr">
+    <display-name>NTV</display-name>
+  </channel>
+
+  <channel id="cnnturk.tr">
+    <display-name>CNN TÜRK</display-name>
+  </channel>
+
+  <channel id="beyaztv.tr">
+    <display-name>Beyaz TV</display-name>
+  </channel>
+
+  <channel id="tgrthaber.tr">
+    <display-name>TGRT Haber</display-name>
+  </channel>
