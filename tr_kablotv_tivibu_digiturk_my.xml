@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="KabloTV Tivibu Digiturk">
+
+  <channel id="babytv.tr">
+    <display-name>BabyTV</display-name>
+  </channel>
+
+  <programme start="20260720123000 +0300" stop="20260720130000 +0300" channel="babytv.tr">
+    <title>Sihirli Keşifler</title>
+  </programme>
+
+  <programme start="20260720130000 +0300" stop="20260720133000 +0300" channel="babytv.tr">
+    <title>Hayal Gücü Oyun Alanı</title>
+  </programme>
+
+  <programme start="20260720133000 +0300" stop="20260720140000 +0300" channel="babytv.tr">
+    <title>Dünya Bir Harika ile keşfetme</title>
+    <desc>Dünya Bir Harika, Şarkılar - Kafiyeler, İnşaatçı Fareler, Şarkılar - Kafiyeler, Neşeli Hayvanlar, Ne Kadar Harika Bir Gün, Mick ile Beraber, BabyTV Stüdyoları</desc>
+  </programme>
+
+  <programme start="20260720140000 +0300" stop="20260720143000 +0300" channel="babytv.tr">
+    <title>Walter - Dude ve diğer hikayeler</title>
+  </programme>
+
+  <programme start="20260720143000 +0300" stop="20260720150000 +0300" channel="babytv.tr">
+    <title>Charlie - Sayılar</title>
+  </programme>
+
+  <programme start="20260720150000 +0300" stop="20260720153000 +0300" channel="babytv.tr">
+    <title>Sanat, Aktivite ve Müzik Zamanı</title>
+  </programme>
+
+   <programme start="20260721000000 +0300" stop="20260721003000 +0300" channel="babytv.tr">
+    <title>Tatlı Rüyalar</title>
+  </programme>
+
+  <programme start="20260721003000 +0300" stop="20260721010000 +0300" channel="babytv.tr">
+    <title>Tatlı Rüyalar</title>
+  </programme>
+
+  <programme start="20260721010000 +0300" stop="20260721013000 +0300" channel="babytv.tr">
+    <title>Rüya Dolu Geceler</title>
+  </programme>
+
+  <programme start="20260721013000 +0300" stop="20260721020000 +0300" channel="babytv.tr">
+    <title>Rüya Dolu Geceler</title>
+  </programme>
+
+  <programme start="20260721020000 +0300" stop="20260721023000 +0300" channel="babytv.tr">
+    <title>Rüya Dolu Geceler</title>
+  </programme>
+
+  <programme start="20260721023000 +0300" stop="20260721030000 +0300" channel="babytv.tr">
+    <title>Rüya Dolu Geceler</title>
+  </programme>
+
+  <programme start="20260721030000 +0300" stop="20260721033000 +0300" channel="babytv.tr">
+    <title>Rüya Dolu Geceler</title>
+  </programme>
+
+  <programme start="20260721033000 +0300" stop="20260721040000 +0300" channel="babytv.tr">
+    <title>Ay ve Yıldızlar</title>
+  </programme>
+
+  <programme start="20260721040000 +0300" stop="20260721043000 +0300" channel="babytv.tr">
+    <title>BabyTV'nin gece melodileri</title>
+  </programme>
+
+  <programme start="20260721043000 +0300" stop="20260721050000 +0300" channel="babytv.tr">
+    <title>Tatlı Rüyalar</title>
+  </programme>
+
+  <programme start="20260721050000 +0300" stop="20260721053000 +0300" channel="babytv.tr">
+    <title>İyi Geceler sarılmaları</title>
+  </programme>
+
+  <programme start="20260721053000 +0300" stop="20260721060000 +0300" channel="babytv.tr">
+    <title>Rüya Dolu Geceler</title>
+  </programme>
+
+  <programme start="20260721060000 +0300" stop="20260721063000 +0300" channel="babytv.tr">
+    <title>Ay ve Yıldızlar</title>
+  </programme>
+
+  <programme start="20260721063000 +0300" stop="20260721070000 +0300" channel="babytv.tr">
+    <title>Yatıştırıcı Sesler</title>
+  </programme>
+
+  <programme start="20260721070000 +0300" stop="20260721073000 +0300" channel="babytv.tr">
+    <title>Geceden Gündüze</title>
+  </programme>
+
+  <programme start="20260721073000 +0300" stop="20260721080000 +0300" channel="babytv.tr">
+    <title>Geceden Gündüze</title>
+  </programme>
+
+  <programme start="20260721080000 +0300" stop="20260721083000 +0300" channel="babytv.tr">
+    <title>BabyTV Arkadaşlarıyla Kalk ve Işılda</title>
+  </programme>
+
+  <programme start="20260721083000 +0300" stop="20260721090000 +0300" channel="babytv.tr">
+    <title>BabyTV Arkadaşlarıyla Kalk ve Işılda</title>
+  </programme>
+
+  <programme start="20260721090000 +0300" stop="20260721093000 +0300" channel="babytv.tr">
+    <title>Günaydın Esnemesi</title>
+  </programme>
+
+  <programme start="20260721093000 +0300" stop="20260721100000 +0300" channel="babytv.tr">
+    <title>Günaydın Esnemesi</title>
+  </programme>
+
+  <programme start="20260721100000 +0300" stop="20260721103000 +0300" channel="babytv.tr">
+    <title>Gününe BabyTV'nin Arkadaşları ile başla</title>
+  </programme>
+
+  <programme start="20260721103000 +0300" stop="20260721110000 +0300" channel="babytv.tr">
+    <title>Walter - Dude ve diğer hikayeler</title>
+  </programme>
+
+  <programme start="20260721110000 +0300" stop="20260721113000 +0300" channel="babytv.tr">
+    <title>Şarkılar - Kafiyeler</title>
+  </programme>
+
+  <programme start="20260721113000 +0300" stop="20260721120000 +0300" channel="babytv.tr">
+    <title>Sanat, Aktivite ve Müzik Zamanı</title>
+  </programme>
+
+  <programme start="20260721120000 +0300" stop="20260721123000 +0300" channel="babytv.tr">
+    <title>İlk Sihirli Keşifler</title>
+  </programme>
+
+  <programme start="20260721123000 +0300" stop="20260721130000 +0300" channel="babytv.tr">
+    <title>Hayal Gücü Oyun Alanı</title>
+  </programme>
+
+  <programme start="20260721130000 +0300" stop="20260721133000 +0300" channel="babytv.tr">
+    <title>Şarkılar - Kafiyeler ile keşfetme</title>
+  </programme>
+
+  <programme start="20260721133000 +0300" stop="20260721140000 +0300" channel="babytv.tr">
+    <title>Mowgli: Ormana Hoş Geldin ve diğer hikayeler</title>
+  </programme>
+
+  <programme start="20260721140000 +0300" stop="20260721143000 +0300" channel="babytv.tr">
+    <title>Küçük Lola Şehirde</title>
+  </programme>
+
+  <programme start="20260721143000 +0300" stop="20260721150000 +0300" channel="babytv.tr">
+    <title>Sanat, Aktivite ve Müzik Zamanı</title>
+  </programme>
+
+  <programme start="20260721150000 +0300" stop="20260721153000 +0300" channel="babytv.tr">
+    <title>İlk Sihirli Keşifler</title>
+  </programme>
+
+  <programme start="20260721153000 +0300" stop="20260721160000 +0300" channel="babytv.tr">
+    <title>Hayal Gücü Oyun Alanı</title>
+  </programme>
+
+  <programme start="20260721160000 +0300" stop="20260721163000 +0300" channel="babytv.tr">
+    <title>Şarkılar - Kafiyeler ile keşfetme</title>
+  </programme>
+
+  <programme start="20260721163000 +0300" stop="20260721170000 +0300" channel="babytv.tr">
+    <title>Mini Matinee ve diğer hikayeler</title>
+  </programme>
+
+  <programme start="20260721170000 +0300" stop="20260721173000 +0300" channel="babytv.tr">
+    <title>Bug'n'Play Kurtarmaya Geliyor</title>
+  </programme>
+
+  <programme start="20260721173000 +0300" stop="20260721180000 +0300" channel="babytv.tr">
+    <title>Sanat, Aktivite ve Müzik Zamanı</title>
+  </programme>
+
+  <programme start="20260721180000 +0300" stop="20260721183000 +0300" channel="babytv.tr">
+    <title>İlk Sihirli Keşifler</title>
+  </programme>
+
+  <programme start="20260721183000 +0300" stop="20260721190000 +0300" channel="babytv.tr">
+    <title>Hayal Gücü Oyun Alanı</title>
+  </programme>
+
+  <programme start="20260721190000 +0300" stop="20260721193000 +0300" channel="babytv.tr">
+    <title>Oliver ile keşfetme</title>
+  </programme>
+
+  <programme start="20260721193000 +0300" stop="20260721200000 +0300" channel="babytv.tr">
+    <title>Charlie - Sayılar ile farkına varma</title>
+  </programme>
+
+  <programme start="20260721200000 +0300" stop="20260721203000 +0300" channel="babytv.tr">
+    <title>Şarkılar - Kafiyeler ile oyna ve öğren</title>
+  </programme>
+
+  <programme start="20260721203000 +0300" stop="20260721210000 +0300" channel="babytv.tr">
+    <title>Sevimliler ve Arkadaşlarla Tahmin Oyunları</title>
+  </programme>
+
+  <programme start="20260721210000 +0300" stop="20260721213000 +0300" channel="babytv.tr">
+    <title>Aile Eğlencesi Vakti ve Şarkılar</title>
+  </programme>
+
+  <programme start="20260721213000 +0300" stop="20260721220000 +0300" channel="babytv.tr">
+    <title>Aile Eğlencesi Vakti ve Şarkılar</title>
+  </programme>
+
+  <programme start="20260721220000 +0300" stop="20260721223000 +0300" channel="babytv.tr">
+    <title>BabyTV ile Sanat, Yaratıcılık ve Müzik</title>
+  </programme>
+
+  <programme start="20260721223000 +0300" stop="20260721230000 +0300" channel="babytv.tr">
+    <title>Klasik Müzik ve Yatıştırıcı Hikayeler</title>
+  </programme>
+
+  <programme start="20260721230000 +0300" stop="20260721233000 +0300" channel="babytv.tr">
+    <title>Rahatla ve Gevşe</title>
+  </programme>
+
+  <programme start="20260721233000 +0300" stop="20260722000000 +0300" channel="babytv.tr">
+    <title>Rahatla ve Gevşe</title>
+  </programme>
+  
+    <programme start="20260722000000 +0300" stop="20260722003000 +0300" channel="babytv.tr">
+    <title>Tatlı Rüyalar</title>
+  </programme>
+
+  <programme start="20260722003000 +0300" stop="20260722010000 +0300" channel="babytv.tr">
+    <title>Tatlı Rüyalar</title>
+  </programme>
+
+  <programme start="20260722010000 +0300" stop="20260722013000 +0300" channel="babytv.tr">
+    <title>Rüya Dolu Geceler</title>
+  </programme>
+
+  <programme start="20260722013000 +0300" stop="20260722020000 +0300" channel="babytv.tr">
+    <title>Rüya Dolu Geceler</title>
+  </programme>
+
+  <programme start="20260722020000 +0300" stop="20260722023000 +0300" channel="babytv.tr">
+    <title>Rüya Dolu Geceler</title>
+  </programme>
+
+  <programme start="20260722023000 +0300" stop="20260722030000 +0300" channel="babytv.tr">
+    <title>Rüya Dolu Geceler</title>
+  </programme>
+
+  <programme start="20260722030000 +0300" stop="20260722033000 +0300" channel="babytv.tr">
+    <title>Rüya Dolu Geceler</title>
+  </programme>
+
+  <programme start="20260722033000 +0300" stop="20260722040000 +0300" channel="babytv.tr">
+    <title>Ay ve Yıldızlar</title>
+  </programme>
+
+  <programme start="20260722040000 +0300" stop="20260722043000 +0300" channel="babytv.tr">
+    <title>BabyTV'nin gece melodileri</title>
+  </programme>
+
+  <programme start="20260722043000 +0300" stop="20260722050000 +0300" channel="babytv.tr">
+    <title>Tatlı Rüyalar</title>
+  </programme>
+
+  <programme start="20260722050000 +0300" stop="20260722053000 +0300" channel="babytv.tr">
+    <title>İyi Geceler sarılmaları</title>
+  </programme>
+
+  <programme start="20260722053000 +0300" stop="20260722060000 +0300" channel="babytv.tr">
+    <title>Rüya Dolu Geceler</title>
+  </programme>
+
+  <programme start="20260722060000 +0300" stop="20260722063000 +0300" channel="babytv.tr">
+    <title>Ay ve Yıldızlar</title>
+  </programme>
+
+  <programme start="20260722063000 +0300" stop="20260722070000 +0300" channel="babytv.tr">
+    <title>Yatıştırıcı Sesler</title>
+  </programme>
+
+  <programme start="20260722070000 +0300" stop="20260722073000 +0300" channel="babytv.tr">
+    <title>Geceden Gündüze</title>
+  </programme>
+
+  <programme start="20260722073000 +0300" stop="20260722080000 +0300" channel="babytv.tr">
+    <title>Geceden Gündüze</title>
+  </programme>
+
+  <programme start="20260722080000 +0300" stop="20260722083000 +0300" channel="babytv.tr">
+    <title>BabyTV Arkadaşlarıyla Kalk ve Işılda</title>
+  </programme>
+
+  <programme start="20260722083000 +0300" stop="20260722090000 +0300" channel="babytv.tr">
+    <title>BabyTV Arkadaşlarıyla Kalk ve Işılda</title>
+  </programme>
+
+  <programme start="20260722090000 +0300" stop="20260722093000 +0300" channel="babytv.tr">
+    <title>Günaydın Esnemesi</title>
+  </programme>
+
+  <programme start="20260722093000 +0300" stop="20260722100000 +0300" channel="babytv.tr">
+    <title>Günaydın Esnemesi</title>
+  </programme>
+
+  <programme start="20260722100000 +0300" stop="20260722103000 +0300" channel="babytv.tr">
+    <title>Gününe BabyTV'nin Arkadaşları ile başla</title>
+  </programme>
+
+  <programme start="20260722103000 +0300" stop="20260722110000 +0300" channel="babytv.tr">
+    <title>Oliver ve diğer hikayeler</title>
+  </programme>
+
+  <programme start="20260722110000 +0300" stop="20260722113000 +0300" channel="babytv.tr">
+    <title>Küçük Lola Şehirde</title>
+  </programme>
+
+  <programme start="20260722113000 +0300" stop="20260722120000 +0300" channel="babytv.tr">
+    <title>Sanat, Aktivite ve Müzik Zamanı</title>
+  </programme>
+
+  <programme start="20260722120000 +0300" stop="20260722123000 +0300" channel="babytv.tr">
+    <title>İlk Sihirli Keşifler</title>
+  </programme>
+
+  <programme start="20260722123000 +0300" stop="20260722130000 +0300" channel="babytv.tr">
+    <title>Hayal Gücü Oyun Alanı</title>
+  </programme>
+
+  <programme start="20260722130000 +0300" stop="20260722133000 +0300" channel="babytv.tr">
+    <title>Şarkılar - Kafiyeler ile keşfetme</title>
+  </programme>
+
+  <programme start="20260722133000 +0300" stop="20260722140000 +0300" channel="babytv.tr">
+    <title>Mowgli: Ormana Hoş Geldin ve diğer hikayeler</title>
+  </programme>
+
+  <programme start="20260722140000 +0300" stop="20260722143000 +0300" channel="babytv.tr">
+    <title>Giggle Wiggle</title>
+  </programme>
+
+  <programme start="20260722143000 +0300" stop="20260722150000 +0300" channel="babytv.tr">
+    <title>Sanat, Aktivite ve Müzik Zamanı</title>
+  </programme>
+
+  <programme start="20260722150000 +0300" stop="20260722153000 +0300" channel="babytv.tr">
+    <title>İlk Sihirli Keşifler</title>
+  </programme>
+
+  <programme start="20260722153000 +0300" stop="20260722160000 +0300" channel="babytv.tr">
+    <title>Hayal Gücü Oyun Alanı</title>
+  </programme>
+
+  <programme start="20260722160000 +0300" stop="20260722163000 +0300" channel="babytv.tr">
+    <title>İnşaatçı Fareler ile keşfetme</title>
+  </programme>
+
+  <programme start="20260722163000 +0300" stop="20260722170000 +0300" channel="babytv.tr">
+    <title>Mini Matinee ve diğer hikayeler</title>
+  </programme>
+
+  <programme start="20260722170000 +0300" stop="20260722173000 +0300" channel="babytv.tr">
+    <title>Bug'n'Play Kurtarmaya Geliyor</title>
+  </programme>
+
+  <programme start="20260722173000 +0300" stop="20260722180000 +0300" channel="babytv.tr">
+    <title>Sanat, Aktivite ve Müzik Zamanı</title>
+  </programme>
+
+  <programme start="20260722180000 +0300" stop="20260722183000 +0300" channel="babytv.tr">
+    <title>İlk Sihirli Keşifler</title>
+  </programme>
+
+  <programme start="20260722183000 +0300" stop="20260722190000 +0300" channel="babytv.tr">
+    <title>Hayal Gücü Oyun Alanı</title>
+  </programme>
+
+  <programme start="20260722190000 +0300" stop="20260722193000 +0300" channel="babytv.tr">
+    <title>Oliver ile keşfetme</title>
+  </programme>
+
+  <programme start="20260722193000 +0300" stop="20260722200000 +0300" channel="babytv.tr">
+    <title>Şarkılar - Kafiyeler ile farkına varma</title>
+  </programme>
+
+  <programme start="20260722200000 +0300" stop="20260722203000 +0300" channel="babytv.tr">
+    <title>Zeina'nın Dedektiflik Bürosu ile oyna ve öğren</title>
+  </programme>
+
+  <programme start="20260722203000 +0300" stop="20260722210000 +0300" channel="babytv.tr">
+    <title>Sevimliler ve Arkadaşlarla Tahmin Oyunları</title>
+  </programme>
+
+  <programme start="20260722210000 +0300" stop="20260722213000 +0300" channel="babytv.tr">
+    <title>Aile Eğlencesi Vakti ve Şarkılar</title>
+  </programme>
+
+  <programme start="20260722213000 +0300" stop="20260722220000 +0300" channel="babytv.tr">
+    <title>Aile Eğlencesi Vakti ve Şarkılar</title>
+  </programme>
+
+  <programme start="20260722220000 +0300" stop="20260722223000 +0300" channel="babytv.tr">
+    <title>BabyTV ile Sanat, Yaratıcılık ve Müzik</title>
+  </programme>
+
+  <programme start="20260722223000 +0300" stop="20260722230000 +0300" channel="babytv.tr">
+    <title>Klasik Müzik ve Yatıştırıcı Hikayeler</title>
+  </programme>
+
+  <programme start="20260722230000 +0300" stop="20260722233000 +0300" channel="babytv.tr">
+    <title>Rahatla ve Gevşe</title>
+  </programme>
+
+  <programme start="20260722233000 +0300" stop="20260723000000 +0300" channel="babytv.tr">
+    <title>Rahatla ve Gevşe</title>
+  </programme>
+
+
+
