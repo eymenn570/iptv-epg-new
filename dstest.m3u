@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/eymenn570/iptv-epg-new/main/tr_kablotv_tivibu_digiturk_my.xml.gz"
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="Baby TV" group-title="Test" tvg-logo="DCX.png", Baby TV
+https://saran-live.ercdn.net/babytv/index.m3u8
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="belN İz" group-title="Test" tvg-logo="D2.png", bein İZ
+https://turkey-digiturk.belnconnet.com.tr/belniz/master.m3u8
